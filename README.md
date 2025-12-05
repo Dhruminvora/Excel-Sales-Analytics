@@ -79,6 +79,5 @@ Evaluate financial performance, support strategic planning, and provide accurate
 
 ---
 
-## 📁 Repository Structure
 
 
